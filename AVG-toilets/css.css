@@ -1,39 +1,33 @@
 body {
-    background-color: beige;
-    padding: 1%;
-    
-  }
+  background-color: #033860;
+  padding: 1%;
+}
 
-
-.pavidu{
-    color: blue;
-    text-align: center;
-    font-size: 40px;
-    font-family: 'Roboto Condensed', sans-serif;
-  }
+.pavidu {
+  color: #be97c6;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Roboto Condensed", sans-serif;
+}
 
 .labais-text {
-    color: blue;
-    text-align: left;
-    font-size: 30px;
-    font-family: 'Roboto Condensed', sans-serif;
-    float: left;
-  }
-
-
-
+  color: #be97c6;
+  text-align: left;
+  font-size: 30px;
+  font-family: "Roboto Condensed", sans-serif;
+  float: left;
+}
 
 .sliktais-text {
-    color: blue;
-    font-size: 30px;
-    float: right;
-    font-family: 'Roboto Condensed', sans-serif;
+  color: #be97c6;
+  font-size: 30px;
+  float: right;
+  font-family: "Roboto Condensed", sans-serif;
 }
 
 .vs {
-    color: blue;
-    text-align: center;
-    font-size: 60px;
-    font-family: 'Roboto Condensed', sans-serif;
-  }
-
+  color: #be97c6;
+  text-align: center;
+  font-size: 60px;
+  font-family: "Roboto Condensed", sans-serif;
+}
